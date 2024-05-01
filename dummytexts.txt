@@ -1,0 +1,4 @@
+- rafce하면 자동으로 문장 완성됨
+- App.js(서비스 전체)
+- public에 들은 사진 -><img src={`${process.env.PUBLIC_URL}/images/image.png`} alt='타이틀'/> 이렇게 접근하기
+- 글씨 밑에 빨간 줄 뜨는거 -> eslint에서 잡아주는 것
